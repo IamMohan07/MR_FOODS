@@ -22,9 +22,6 @@ This repository contains the source code for MR FOOD, a responsive and user-frie
 **Contributions:**
 Contributions are welcome! Feel free to fork this repository, make improvements, and submit pull requests to collaborate on enhancing MR FOOD further.
 
-**License:**
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 This description provides an overview of the repository, its contents, features, usage instructions, and encourages collaboration through contributions, all while adhering to licensing information for clarity. Adjust it as needed to accurately reflect your specific project details.
